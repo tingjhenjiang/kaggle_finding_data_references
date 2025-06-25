@@ -21,3 +21,4 @@ for kaggle "Make Data Count - Finding Data References" competitions, by team TJ,
 * Unzip [kaggle competition data](https://www.kaggle.com/competitions/make-data-count-finding-data-references/data) to "data" folder.
 * Download scientific_literatures_pdf_to_md.parquet to "data" folder.
 * Save [your huggingface access token](https://huggingface.co/settings/tokens) as "hf_access_token.txt".
+* ❌**Do not** push hf_access_token.txt, datasets, other tokens or secrets to github repository.
